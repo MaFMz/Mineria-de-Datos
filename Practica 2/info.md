@@ -3,27 +3,7 @@ Aplicar estadística descriptiva, identificar entidades y relaciones, trazar su 
 
 ## Modelo Entidad - Relación
 
-De manera general se puede describir como:
-
-        1
-┌──────────────┐
-│     ITEM     │
-└──────┬───────┘
-        │
-        N
-        ▼
-┌──────────────┐
-│MERCADO_DIARIO│
-└──────┬───────┘
-        N
-        │
-        ▼
-┌──────────────┐
-│    FECHA     │
-└──────────────┘
-        1
-
-Se incluye una versión más detallada expresando las entidades y sus relaciones en Modelo_Entidad-Relacion.png
+Se incluye una versión detallada expresando las entidades y sus relaciones en Modelo_Entidad-Relacion.png
 
 ## Métricas de datos agrupados
 Se calcularon a partir de agrupar por tipo de item, y por itemID los parámetros de:
