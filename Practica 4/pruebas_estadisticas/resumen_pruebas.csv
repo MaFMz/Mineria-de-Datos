@@ -1,0 +1,6 @@
+respuesta,grupo,escala,k,n_total,prueba,estadistico,p,efecto_nombre,efecto,magnitud
+sell_price_avg,rarity,log10,5,139,Kruskal-Wallis + Mann-Whitney (Bonferroni),94.00903422972897,1.8513123483032968e-19,epsilon^2,0.6812248857226737,grande
+sell_price_avg,type,log10,3,135,Kruskal-Wallis + Mann-Whitney (Bonferroni),88.78340474961594,5.2593081362861257e-20,epsilon^2,0.6625627220120592,grande
+sell_price_avg,level,log10,2,139,U de Mann-Whitney,249.0,3.026976072809359e-15,r biserial,-0.870244919228765,grande
+sell_sold,rarity,original,5,140,Kruskal-Wallis + Mann-Whitney (Bonferroni),100.05096374418589,9.593926416187689e-21,epsilon^2,0.7197911060732798,grande
+sell_sold,type,original,3,136,Kruskal-Wallis + Mann-Whitney (Bonferroni),95.2319168982572,2.0924350924201927e-21,epsilon^2,0.705421606653757,grande

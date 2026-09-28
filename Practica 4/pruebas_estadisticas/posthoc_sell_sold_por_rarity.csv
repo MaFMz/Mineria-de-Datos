@@ -1,0 +1,11 @@
+grupo_a,grupo_b,dif_medianas,p_ajustado
+Ascended,Basic,-10619.0,1e-06
+Ascended,Exotic,6.0,0.211919
+Ascended,Fine,-3126.0,0.0
+Ascended,Rare,-5038.0,0.002078
+Basic,Exotic,10625.0,0.0
+Basic,Fine,7493.0,8e-06
+Basic,Rare,5581.0,0.000944
+Exotic,Fine,-3132.0,0.0
+Exotic,Rare,-5044.0,7e-06
+Fine,Rare,-1912.0,1.0
