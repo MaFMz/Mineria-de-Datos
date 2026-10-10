@@ -1,0 +1,3 @@
+modelo,x,y,pendiente,intercepto,r,r2,p,n
+Precio de venta en funcion del precio de compra,buy_price_avg,sell_price_avg,1.0130888045456816,0.04317111400779616,0.99938925094788,0.9987788749101647,1.8885103542236687e-201,139
+Precio de venta en funcion del volumen vendido,sell_sold,sell_price_avg,-0.8530691031763734,5.355644273835846,-0.8339946355599572,0.6955470521427859,9.776555493746233e-32,118
