@@ -1,0 +1,4 @@
+objetivo,n_items,n_clases,k,weights,metric,test_accuracy,test_balanced_accuracy,test_f1_macro,test_base_balanced_accuracy,cv_accuracy,cv_accuracy_std,cv_base_accuracy,cv_balanced_accuracy,cv_balanced_accuracy_std,cv_base_balanced_accuracy,cv_f1_macro,cv_f1_macro_std,cv_base_f1_macro
+rarity,139,5,1,uniform,euclidean,0.8286,0.7836,0.8093,0.2,0.7984,0.0722,0.3021,0.7675,0.0806,0.2,0.7649,0.0779,0.0928
+type,135,3,1,uniform,euclidean,0.9118,0.8,0.8157,0.3333,0.963,0.0383,0.5852,0.9211,0.0664,0.3333,0.9324,0.0647,0.2461
+level,139,2,1,uniform,euclidean,0.9429,0.96,0.9337,0.5,0.9713,0.0268,0.7267,0.9721,0.0287,0.5,0.9651,0.0318,0.4208

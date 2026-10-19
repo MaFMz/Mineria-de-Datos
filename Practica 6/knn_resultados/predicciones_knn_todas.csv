@@ -1,0 +1,414 @@
+objetivo,itemID,name,clase_real,clase_predicha,acierto,log_precio_venta,log_volumen_venta
+rarity,19697,Copper Ore,Basic,Basic,True,1.681,4.03
+rarity,19698,Gold Ore,Basic,Fine,False,1.602,4.182
+rarity,19699,Iron Ore,Basic,Basic,True,2.114,4.51
+rarity,19700,Mithril Ore,Basic,Fine,False,1.623,4.728
+rarity,19701,Orichalcum Ore,Basic,Fine,False,2.299,4.177
+rarity,19702,Platinum Ore,Basic,Basic,True,2.262,4.077
+rarity,19703,Silver Ore,Basic,Basic,True,1.204,4.622
+rarity,19718,Jute Scrap,Basic,Basic,True,1.477,3.703
+rarity,19719,Rawhide Leather Section,Basic,Basic,True,1.204,3.609
+rarity,19721,Glob of Ectoplasm,Exotic,Rare,False,3.363,4.336
+rarity,19722,Elder Wood Log,Basic,Fine,False,1.756,4.738
+rarity,19723,Green Wood Log,Basic,Basic,True,1.146,3.968
+rarity,19724,Hard Wood Log,Basic,Basic,True,2.158,3.976
+rarity,19725,Ancient Wood Log,Basic,Fine,False,2.217,3.893
+rarity,19726,Soft Wood Log,Basic,Basic,True,1.38,4.163
+rarity,19727,Seasoned Wood Log,Basic,Basic,True,1.954,4.023
+rarity,19728,Thin Leather Section,Basic,Basic,True,1.519,3.968
+rarity,19729,Thick Leather Section,Basic,Basic,True,1.633,4.595
+rarity,19730,Coarse Leather Section,Basic,Basic,True,1.663,3.766
+rarity,19731,Rugged Leather Section,Basic,Basic,True,2.276,3.876
+rarity,19732,Hardened Leather Section,Basic,Fine,False,2.79,3.766
+rarity,19739,Wool Scrap,Basic,Basic,True,1.892,3.883
+rarity,19741,Cotton Scrap,Basic,Basic,True,1.176,3.851
+rarity,19743,Linen Scrap,Basic,Basic,True,1.785,3.93
+rarity,19745,Gossamer Scrap,Basic,Basic,True,2.037,4.418
+rarity,19748,Silk Scrap,Basic,Basic,True,1.23,4.845
+rarity,19976,Mystic Coin,Rare,Rare,True,4.294,3.557
+rarity,24272,Pile of Glittering Dust,Fine,Fine,True,1.863,3.183
+rarity,24273,Pile of Shimmering Dust,Fine,Fine,True,2.427,3.17
+rarity,24274,Pile of Radiant Dust,Fine,Rare,False,2.916,3.772
+rarity,24275,Pile of Luminous Dust,Fine,Fine,True,2.87,3.781
+rarity,24276,Pile of Incandescent Dust,Fine,Fine,True,2.093,4.259
+rarity,24277,Pile of Crystalline Dust,Rare,Fine,False,3.121,4.006
+rarity,24278,Tiny Venom Sac,Fine,Fine,True,0.699,3.151
+rarity,24279,Small Venom Sac,Fine,Fine,True,1.556,3.073
+rarity,24280,Venom Sac,Fine,Fine,True,2.633,3.476
+rarity,24281,Full Venom Sac,Fine,Fine,True,2.622,3.531
+rarity,24282,Potent Venom Sac,Fine,Basic,False,1.712,4.255
+rarity,24283,Powerful Venom Sac,Rare,Rare,True,3.34,3.709
+rarity,24284,Tiny Scale,Fine,Fine,True,0.778,3.378
+rarity,24285,Small Scale,Fine,Fine,True,1.881,3.04
+rarity,24286,Scale,Fine,Fine,True,2.731,3.515
+rarity,24287,Smooth Scale,Fine,Fine,True,2.611,3.545
+rarity,24288,Large Scale,Fine,Fine,True,1.857,4.161
+rarity,24289,Armored Scale,Rare,Rare,True,3.375,3.615
+rarity,24290,Vial of Weak Blood,Fine,Fine,True,0.845,3.458
+rarity,24291,Vial of Thin Blood,Fine,Fine,True,1.653,3.199
+rarity,24292,Vial of Blood,Fine,Fine,True,2.575,3.525
+rarity,24293,Vial of Thick Blood,Fine,Fine,True,2.605,3.54
+rarity,24294,Vial of Potent Blood,Fine,Fine,True,2.041,4.209
+rarity,24295,Vial of Powerful Blood,Rare,Rare,True,3.445,3.71
+rarity,24296,Tiny Totem,Fine,Fine,True,0.778,3.501
+rarity,24297,Small Totem,Fine,Fine,True,1.653,3.161
+rarity,24298,Totem,Fine,Fine,True,2.556,3.556
+rarity,24299,Intricate Totem,Fine,Fine,True,1.968,4.194
+rarity,24300,Elaborate Totem,Rare,Rare,True,3.402,3.658
+rarity,24341,Large Bone,Fine,Fine,True,1.875,4.214
+rarity,24342,Bone Chip,Fine,Basic,False,0.954,2.818
+rarity,24343,Bone Shard,Fine,Fine,True,2.134,2.798
+rarity,24344,Bone,Fine,Fine,True,2.926,3.469
+rarity,24345,Heavy Bone,Fine,Basic,False,2.843,3.491
+rarity,24346,Tiny Claw,Fine,Fine,True,0.845,3.364
+rarity,24347,Small Claw,Fine,Fine,True,1.574,3.1
+rarity,24348,Claw,Fine,Fine,True,2.632,3.501
+rarity,24349,Sharp Claw,Fine,Fine,True,2.683,3.53
+rarity,24350,Large Claw,Fine,Fine,True,1.763,4.239
+rarity,24351,Vicious Claw,Rare,Fine,False,3.293,3.714
+rarity,24352,Tiny Fang,Fine,Fine,True,0.699,2.705
+rarity,24353,Small Fang,Fine,Basic,False,2.033,2.915
+rarity,24354,Fang,Fine,Fine,True,2.86,3.464
+rarity,24355,Sharp Fang,Fine,Fine,True,2.775,3.478
+rarity,24356,Large Fang,Fine,Basic,False,1.653,4.282
+rarity,24357,Vicious Fang,Rare,Rare,True,3.162,3.772
+rarity,24358,Ancient Bone,Rare,Rare,True,3.37,3.703
+rarity,24363,Engraved Totem,Fine,Fine,True,2.593,3.65
+rarity,29166,Tooth of Frostfang,Exotic,Exotic,True,5.791,0.301
+rarity,29167,Spark,Exotic,Exotic,True,6.17,0.301
+rarity,29168,The Bard,Exotic,Exotic,True,5.342,0.301
+rarity,29169,Dawn,Exotic,Exotic,True,6.253,0.301
+rarity,29170,The Colossus,Exotic,Exotic,True,5.785,0.301
+rarity,29171,Carcharias,Exotic,Exotic,True,5.636,0.301
+rarity,29172,Leaf of Kudzu,Exotic,Exotic,True,5.813,0.301
+rarity,29173,The Energizer,Exotic,Exotic,True,5.342,0.301
+rarity,29174,Chaos Gun,Exotic,Exotic,True,5.404,0.301
+rarity,29175,The Hunter,Exotic,Exotic,True,5.729,0.301
+rarity,29176,Storm,Exotic,Exotic,True,5.477,0.301
+rarity,29177,The Chosen,Exotic,Exotic,True,5.851,0.301
+rarity,29178,The Lover,Exotic,Exotic,True,5.54,0.301
+rarity,29179,Rage,Exotic,Exotic,True,5.312,0.301
+rarity,29180,The Legend,Exotic,Exotic,True,5.803,0.301
+rarity,29181,Zap,Exotic,Exotic,True,5.804,0.301
+rarity,29182,Rodgort's Flame,Exotic,Exotic,True,5.431,0.0
+rarity,29183,Venom,Exotic,Exotic,True,5.444,0.301
+rarity,29184,Howl,Exotic,Exotic,True,5.555,0.301
+rarity,29185,Dusk,Exotic,Exotic,True,6.564,0.301
+rarity,49424,+1 Agony Infusion,Ascended,Basic,False,1.176,4.424
+rarity,49425,+2 Agony Infusion,Ascended,Ascended,True,2.394,0.477
+rarity,49426,+3 Agony Infusion,Ascended,Ascended,True,2.754,1.041
+rarity,49427,+4 Agony Infusion,Ascended,Ascended,True,3.209,0.903
+rarity,49428,+5 Agony Infusion,Ascended,Ascended,True,3.509,1.763
+rarity,49429,+6 Agony Infusion,Ascended,Ascended,True,3.747,1.176
+rarity,49430,+7 Agony Infusion,Ascended,Ascended,True,4.108,1.531
+rarity,49431,+8 Agony Infusion,Ascended,Ascended,True,4.418,1.342
+rarity,49432,+9 Agony Infusion,Ascended,Ascended,True,4.697,2.13
+rarity,49433,+10 Agony Infusion,Ascended,Ascended,True,5.015,1.568
+rarity,49434,+11 Agony Infusion,Ascended,Ascended,True,5.303,1.079
+rarity,49435,+12 Agony Infusion,Ascended,Exotic,False,5.621,0.477
+rarity,49436,+13 Agony Infusion,Ascended,Exotic,False,5.918,0.301
+rarity,49437,+14 Agony Infusion,Ascended,Exotic,False,6.22,0.0
+rarity,49438,+15 Agony Infusion,Ascended,Exotic,False,6.531,0.0
+rarity,49439,+16 Agony Infusion,Ascended,Exotic,False,6.838,0.0
+rarity,49440,+17 Agony Infusion,Ascended,Ascended,True,7.146,0.0
+rarity,49441,+18 Agony Infusion,Ascended,Ascended,True,7.477,0.0
+rarity,49442,+19 Agony Infusion,Ascended,Ascended,True,7.932,0.0
+rarity,66930,Mordrem Sliver,Rare,Ascended,False,1.602,1.0
+rarity,68942,Evergreen Lodestone,Exotic,Fine,False,2.418,2.425
+rarity,68952,Evergreen Sliver,Rare,Rare,True,1.613,2.117
+rarity,70842,Mordrem Lodestone,Exotic,Fine,False,2.102,2.55
+rarity,73034,Vial of Linseed Oil,Fine,Rare,False,3.535,3.006
+rarity,73248,Stabilizing Matrix,Ascended,Rare,False,3.516,3.51
+rarity,89140,Lucent Mote,Basic,Fine,False,1.549,4.459
+rarity,89271,Pile of Lucent Crystal,Fine,Basic,False,2.535,3.778
+rarity,95814,Dragon's Insight,Exotic,Exotic,True,6.22,0.0
+rarity,95834,Dragon's Flight,Exotic,Exotic,True,6.219,0.0
+rarity,95920,Dragon's Weight,Exotic,Exotic,True,6.217,0.0
+rarity,95967,Dragon's Claw,Exotic,Exotic,True,6.22,0.301
+rarity,95994,Dragon's Fang,Exotic,Exotic,True,6.22,0.301
+rarity,96193,Dragon's Wisdom,Exotic,Exotic,True,6.224,0.0
+rarity,96303,Dragon's Gaze,Exotic,Exotic,True,6.217,0.0
+rarity,96330,Dragon's Wing,Exotic,Exotic,True,6.224,0.0
+rarity,96357,Dragon's Bite,Exotic,Exotic,True,6.206,0.0
+rarity,96827,Dragon's Tail,Exotic,Exotic,True,6.226,0.0
+rarity,96915,Dragon's Argument,Exotic,Exotic,True,6.226,0.0
+rarity,96925,Dragon's Breath,Exotic,Exotic,True,6.217,0.0
+rarity,97267,Dragon's Persuasion,Exotic,Exotic,True,6.229,0.0
+rarity,97449,Dragon's Rending,Exotic,Exotic,True,6.209,0.0
+rarity,97513,Dragon's Voice,Exotic,Exotic,True,6.22,0.0
+rarity,97691,Dragon's Scale,Exotic,Exotic,True,6.216,0.0
+rarity,103973,Nyr Hrammr,Exotic,Exotic,True,6.587,0.301
+type,19697,Copper Ore,CraftingMaterial,CraftingMaterial,True,1.681,4.03
+type,19698,Gold Ore,CraftingMaterial,CraftingMaterial,True,1.602,4.182
+type,19699,Iron Ore,CraftingMaterial,CraftingMaterial,True,2.114,4.51
+type,19700,Mithril Ore,CraftingMaterial,CraftingMaterial,True,1.623,4.728
+type,19701,Orichalcum Ore,CraftingMaterial,CraftingMaterial,True,2.299,4.177
+type,19702,Platinum Ore,CraftingMaterial,CraftingMaterial,True,2.262,4.077
+type,19703,Silver Ore,CraftingMaterial,CraftingMaterial,True,1.204,4.622
+type,19718,Jute Scrap,CraftingMaterial,CraftingMaterial,True,1.477,3.703
+type,19719,Rawhide Leather Section,CraftingMaterial,CraftingMaterial,True,1.204,3.609
+type,19722,Elder Wood Log,CraftingMaterial,CraftingMaterial,True,1.756,4.738
+type,19723,Green Wood Log,CraftingMaterial,CraftingMaterial,True,1.146,3.968
+type,19724,Hard Wood Log,CraftingMaterial,CraftingMaterial,True,2.158,3.976
+type,19725,Ancient Wood Log,CraftingMaterial,CraftingMaterial,True,2.217,3.893
+type,19726,Soft Wood Log,CraftingMaterial,CraftingMaterial,True,1.38,4.163
+type,19727,Seasoned Wood Log,CraftingMaterial,CraftingMaterial,True,1.954,4.023
+type,19728,Thin Leather Section,CraftingMaterial,CraftingMaterial,True,1.519,3.968
+type,19729,Thick Leather Section,CraftingMaterial,CraftingMaterial,True,1.633,4.595
+type,19730,Coarse Leather Section,CraftingMaterial,CraftingMaterial,True,1.663,3.766
+type,19731,Rugged Leather Section,CraftingMaterial,CraftingMaterial,True,2.276,3.876
+type,19732,Hardened Leather Section,CraftingMaterial,CraftingMaterial,True,2.79,3.766
+type,19739,Wool Scrap,CraftingMaterial,CraftingMaterial,True,1.892,3.883
+type,19741,Cotton Scrap,CraftingMaterial,CraftingMaterial,True,1.176,3.851
+type,19743,Linen Scrap,CraftingMaterial,CraftingMaterial,True,1.785,3.93
+type,19745,Gossamer Scrap,CraftingMaterial,CraftingMaterial,True,2.037,4.418
+type,19748,Silk Scrap,CraftingMaterial,CraftingMaterial,True,1.23,4.845
+type,24272,Pile of Glittering Dust,CraftingMaterial,CraftingMaterial,True,1.863,3.183
+type,24273,Pile of Shimmering Dust,CraftingMaterial,CraftingMaterial,True,2.427,3.17
+type,24274,Pile of Radiant Dust,CraftingMaterial,CraftingMaterial,True,2.916,3.772
+type,24275,Pile of Luminous Dust,CraftingMaterial,CraftingMaterial,True,2.87,3.781
+type,24276,Pile of Incandescent Dust,CraftingMaterial,CraftingMaterial,True,2.093,4.259
+type,24277,Pile of Crystalline Dust,CraftingMaterial,CraftingMaterial,True,3.121,4.006
+type,24278,Tiny Venom Sac,CraftingMaterial,CraftingMaterial,True,0.699,3.151
+type,24279,Small Venom Sac,CraftingMaterial,CraftingMaterial,True,1.556,3.073
+type,24280,Venom Sac,CraftingMaterial,CraftingMaterial,True,2.633,3.476
+type,24281,Full Venom Sac,CraftingMaterial,CraftingMaterial,True,2.622,3.531
+type,24282,Potent Venom Sac,CraftingMaterial,CraftingMaterial,True,1.712,4.255
+type,24283,Powerful Venom Sac,CraftingMaterial,CraftingMaterial,True,3.34,3.709
+type,24284,Tiny Scale,CraftingMaterial,CraftingMaterial,True,0.778,3.378
+type,24285,Small Scale,CraftingMaterial,CraftingMaterial,True,1.881,3.04
+type,24286,Scale,CraftingMaterial,CraftingMaterial,True,2.731,3.515
+type,24287,Smooth Scale,CraftingMaterial,CraftingMaterial,True,2.611,3.545
+type,24288,Large Scale,CraftingMaterial,CraftingMaterial,True,1.857,4.161
+type,24289,Armored Scale,CraftingMaterial,CraftingMaterial,True,3.375,3.615
+type,24290,Vial of Weak Blood,CraftingMaterial,CraftingMaterial,True,0.845,3.458
+type,24291,Vial of Thin Blood,CraftingMaterial,CraftingMaterial,True,1.653,3.199
+type,24292,Vial of Blood,CraftingMaterial,CraftingMaterial,True,2.575,3.525
+type,24293,Vial of Thick Blood,CraftingMaterial,CraftingMaterial,True,2.605,3.54
+type,24294,Vial of Potent Blood,CraftingMaterial,CraftingMaterial,True,2.041,4.209
+type,24295,Vial of Powerful Blood,CraftingMaterial,CraftingMaterial,True,3.445,3.71
+type,24296,Tiny Totem,CraftingMaterial,CraftingMaterial,True,0.778,3.501
+type,24297,Small Totem,CraftingMaterial,CraftingMaterial,True,1.653,3.161
+type,24298,Totem,CraftingMaterial,CraftingMaterial,True,2.556,3.556
+type,24299,Intricate Totem,CraftingMaterial,CraftingMaterial,True,1.968,4.194
+type,24300,Elaborate Totem,CraftingMaterial,CraftingMaterial,True,3.402,3.658
+type,24341,Large Bone,CraftingMaterial,CraftingMaterial,True,1.875,4.214
+type,24342,Bone Chip,CraftingMaterial,CraftingMaterial,True,0.954,2.818
+type,24343,Bone Shard,CraftingMaterial,CraftingMaterial,True,2.134,2.798
+type,24344,Bone,CraftingMaterial,CraftingMaterial,True,2.926,3.469
+type,24345,Heavy Bone,CraftingMaterial,CraftingMaterial,True,2.843,3.491
+type,24346,Tiny Claw,CraftingMaterial,CraftingMaterial,True,0.845,3.364
+type,24347,Small Claw,CraftingMaterial,CraftingMaterial,True,1.574,3.1
+type,24348,Claw,CraftingMaterial,CraftingMaterial,True,2.632,3.501
+type,24349,Sharp Claw,CraftingMaterial,CraftingMaterial,True,2.683,3.53
+type,24350,Large Claw,CraftingMaterial,CraftingMaterial,True,1.763,4.239
+type,24351,Vicious Claw,CraftingMaterial,CraftingMaterial,True,3.293,3.714
+type,24352,Tiny Fang,CraftingMaterial,CraftingMaterial,True,0.699,2.705
+type,24353,Small Fang,CraftingMaterial,CraftingMaterial,True,2.033,2.915
+type,24354,Fang,CraftingMaterial,CraftingMaterial,True,2.86,3.464
+type,24355,Sharp Fang,CraftingMaterial,CraftingMaterial,True,2.775,3.478
+type,24356,Large Fang,CraftingMaterial,CraftingMaterial,True,1.653,4.282
+type,24357,Vicious Fang,CraftingMaterial,CraftingMaterial,True,3.162,3.772
+type,24358,Ancient Bone,CraftingMaterial,CraftingMaterial,True,3.37,3.703
+type,24363,Engraved Totem,CraftingMaterial,CraftingMaterial,True,2.593,3.65
+type,29166,Tooth of Frostfang,Weapon,Weapon,True,5.791,0.301
+type,29167,Spark,Weapon,Weapon,True,6.17,0.301
+type,29168,The Bard,Weapon,Weapon,True,5.342,0.301
+type,29169,Dawn,Weapon,Weapon,True,6.253,0.301
+type,29170,The Colossus,Weapon,Weapon,True,5.785,0.301
+type,29171,Carcharias,Weapon,Weapon,True,5.636,0.301
+type,29172,Leaf of Kudzu,Weapon,Weapon,True,5.813,0.301
+type,29173,The Energizer,Weapon,Weapon,True,5.342,0.301
+type,29174,Chaos Gun,Weapon,Weapon,True,5.404,0.301
+type,29175,The Hunter,Weapon,Weapon,True,5.729,0.301
+type,29176,Storm,Weapon,Weapon,True,5.477,0.301
+type,29177,The Chosen,Weapon,Weapon,True,5.851,0.301
+type,29178,The Lover,Weapon,Weapon,True,5.54,0.301
+type,29179,Rage,Weapon,Weapon,True,5.312,0.301
+type,29180,The Legend,Weapon,Weapon,True,5.803,0.301
+type,29181,Zap,Weapon,Weapon,True,5.804,0.301
+type,29182,Rodgort's Flame,Weapon,Weapon,True,5.431,0.0
+type,29183,Venom,Weapon,Weapon,True,5.444,0.301
+type,29184,Howl,Weapon,Weapon,True,5.555,0.301
+type,29185,Dusk,Weapon,Weapon,True,6.564,0.301
+type,49424,+1 Agony Infusion,UpgradeComponent,CraftingMaterial,False,1.176,4.424
+type,49425,+2 Agony Infusion,UpgradeComponent,UpgradeComponent,True,2.394,0.477
+type,49426,+3 Agony Infusion,UpgradeComponent,UpgradeComponent,True,2.754,1.041
+type,49427,+4 Agony Infusion,UpgradeComponent,UpgradeComponent,True,3.209,0.903
+type,49428,+5 Agony Infusion,UpgradeComponent,UpgradeComponent,True,3.509,1.763
+type,49429,+6 Agony Infusion,UpgradeComponent,UpgradeComponent,True,3.747,1.176
+type,49430,+7 Agony Infusion,UpgradeComponent,UpgradeComponent,True,4.108,1.531
+type,49431,+8 Agony Infusion,UpgradeComponent,UpgradeComponent,True,4.418,1.342
+type,49432,+9 Agony Infusion,UpgradeComponent,UpgradeComponent,True,4.697,2.13
+type,49433,+10 Agony Infusion,UpgradeComponent,UpgradeComponent,True,5.015,1.568
+type,49434,+11 Agony Infusion,UpgradeComponent,UpgradeComponent,True,5.303,1.079
+type,49435,+12 Agony Infusion,UpgradeComponent,Weapon,False,5.621,0.477
+type,49436,+13 Agony Infusion,UpgradeComponent,Weapon,False,5.918,0.301
+type,49437,+14 Agony Infusion,UpgradeComponent,Weapon,False,6.22,0.0
+type,49438,+15 Agony Infusion,UpgradeComponent,Weapon,False,6.531,0.0
+type,49439,+16 Agony Infusion,UpgradeComponent,UpgradeComponent,True,6.838,0.0
+type,49440,+17 Agony Infusion,UpgradeComponent,UpgradeComponent,True,7.146,0.0
+type,49441,+18 Agony Infusion,UpgradeComponent,UpgradeComponent,True,7.477,0.0
+type,49442,+19 Agony Infusion,UpgradeComponent,UpgradeComponent,True,7.932,0.0
+type,68942,Evergreen Lodestone,CraftingMaterial,CraftingMaterial,True,2.418,2.425
+type,70842,Mordrem Lodestone,CraftingMaterial,CraftingMaterial,True,2.102,2.55
+type,73034,Vial of Linseed Oil,CraftingMaterial,CraftingMaterial,True,3.535,3.006
+type,73248,Stabilizing Matrix,CraftingMaterial,CraftingMaterial,True,3.516,3.51
+type,89140,Lucent Mote,CraftingMaterial,CraftingMaterial,True,1.549,4.459
+type,89271,Pile of Lucent Crystal,CraftingMaterial,CraftingMaterial,True,2.535,3.778
+type,95814,Dragon's Insight,Weapon,Weapon,True,6.22,0.0
+type,95834,Dragon's Flight,Weapon,Weapon,True,6.219,0.0
+type,95920,Dragon's Weight,Weapon,Weapon,True,6.217,0.0
+type,95967,Dragon's Claw,Weapon,Weapon,True,6.22,0.301
+type,95994,Dragon's Fang,Weapon,Weapon,True,6.22,0.301
+type,96193,Dragon's Wisdom,Weapon,Weapon,True,6.224,0.0
+type,96303,Dragon's Gaze,Weapon,Weapon,True,6.217,0.0
+type,96330,Dragon's Wing,Weapon,Weapon,True,6.224,0.0
+type,96357,Dragon's Bite,Weapon,Weapon,True,6.206,0.0
+type,96827,Dragon's Tail,Weapon,Weapon,True,6.226,0.0
+type,96915,Dragon's Argument,Weapon,Weapon,True,6.226,0.0
+type,96925,Dragon's Breath,Weapon,Weapon,True,6.217,0.0
+type,97267,Dragon's Persuasion,Weapon,Weapon,True,6.229,0.0
+type,97449,Dragon's Rending,Weapon,Weapon,True,6.209,0.0
+type,97513,Dragon's Voice,Weapon,Weapon,True,6.22,0.0
+type,97691,Dragon's Scale,Weapon,Weapon,True,6.216,0.0
+type,103973,Nyr Hrammr,Weapon,Weapon,True,6.587,0.301
+level,19697,Copper Ore,nivel_0,nivel_0,True,1.681,4.03
+level,19698,Gold Ore,nivel_0,nivel_0,True,1.602,4.182
+level,19699,Iron Ore,nivel_0,nivel_0,True,2.114,4.51
+level,19700,Mithril Ore,nivel_0,nivel_0,True,1.623,4.728
+level,19701,Orichalcum Ore,nivel_0,nivel_0,True,2.299,4.177
+level,19702,Platinum Ore,nivel_0,nivel_0,True,2.262,4.077
+level,19703,Silver Ore,nivel_0,nivel_0,True,1.204,4.622
+level,19718,Jute Scrap,nivel_0,nivel_0,True,1.477,3.703
+level,19719,Rawhide Leather Section,nivel_0,nivel_0,True,1.204,3.609
+level,19721,Glob of Ectoplasm,nivel_0,nivel_0,True,3.363,4.336
+level,19722,Elder Wood Log,nivel_0,nivel_0,True,1.756,4.738
+level,19723,Green Wood Log,nivel_0,nivel_0,True,1.146,3.968
+level,19724,Hard Wood Log,nivel_0,nivel_0,True,2.158,3.976
+level,19725,Ancient Wood Log,nivel_0,nivel_0,True,2.217,3.893
+level,19726,Soft Wood Log,nivel_0,nivel_0,True,1.38,4.163
+level,19727,Seasoned Wood Log,nivel_0,nivel_0,True,1.954,4.023
+level,19728,Thin Leather Section,nivel_0,nivel_0,True,1.519,3.968
+level,19729,Thick Leather Section,nivel_0,nivel_0,True,1.633,4.595
+level,19730,Coarse Leather Section,nivel_0,nivel_0,True,1.663,3.766
+level,19731,Rugged Leather Section,nivel_0,nivel_0,True,2.276,3.876
+level,19732,Hardened Leather Section,nivel_0,nivel_0,True,2.79,3.766
+level,19739,Wool Scrap,nivel_0,nivel_0,True,1.892,3.883
+level,19741,Cotton Scrap,nivel_0,nivel_0,True,1.176,3.851
+level,19743,Linen Scrap,nivel_0,nivel_0,True,1.785,3.93
+level,19745,Gossamer Scrap,nivel_0,nivel_0,True,2.037,4.418
+level,19748,Silk Scrap,nivel_0,nivel_0,True,1.23,4.845
+level,19976,Mystic Coin,nivel_0,nivel_0,True,4.294,3.557
+level,24272,Pile of Glittering Dust,nivel_0,nivel_0,True,1.863,3.183
+level,24273,Pile of Shimmering Dust,nivel_0,nivel_0,True,2.427,3.17
+level,24274,Pile of Radiant Dust,nivel_0,nivel_0,True,2.916,3.772
+level,24275,Pile of Luminous Dust,nivel_0,nivel_0,True,2.87,3.781
+level,24276,Pile of Incandescent Dust,nivel_0,nivel_0,True,2.093,4.259
+level,24277,Pile of Crystalline Dust,nivel_0,nivel_0,True,3.121,4.006
+level,24278,Tiny Venom Sac,nivel_0,nivel_0,True,0.699,3.151
+level,24279,Small Venom Sac,nivel_0,nivel_0,True,1.556,3.073
+level,24280,Venom Sac,nivel_0,nivel_0,True,2.633,3.476
+level,24281,Full Venom Sac,nivel_0,nivel_0,True,2.622,3.531
+level,24282,Potent Venom Sac,nivel_0,nivel_0,True,1.712,4.255
+level,24283,Powerful Venom Sac,nivel_0,nivel_0,True,3.34,3.709
+level,24284,Tiny Scale,nivel_0,nivel_0,True,0.778,3.378
+level,24285,Small Scale,nivel_0,nivel_0,True,1.881,3.04
+level,24286,Scale,nivel_0,nivel_0,True,2.731,3.515
+level,24287,Smooth Scale,nivel_0,nivel_0,True,2.611,3.545
+level,24288,Large Scale,nivel_0,nivel_0,True,1.857,4.161
+level,24289,Armored Scale,nivel_0,nivel_0,True,3.375,3.615
+level,24290,Vial of Weak Blood,nivel_0,nivel_0,True,0.845,3.458
+level,24291,Vial of Thin Blood,nivel_0,nivel_0,True,1.653,3.199
+level,24292,Vial of Blood,nivel_0,nivel_0,True,2.575,3.525
+level,24293,Vial of Thick Blood,nivel_0,nivel_0,True,2.605,3.54
+level,24294,Vial of Potent Blood,nivel_0,nivel_0,True,2.041,4.209
+level,24295,Vial of Powerful Blood,nivel_0,nivel_0,True,3.445,3.71
+level,24296,Tiny Totem,nivel_0,nivel_0,True,0.778,3.501
+level,24297,Small Totem,nivel_0,nivel_0,True,1.653,3.161
+level,24298,Totem,nivel_0,nivel_0,True,2.556,3.556
+level,24299,Intricate Totem,nivel_0,nivel_0,True,1.968,4.194
+level,24300,Elaborate Totem,nivel_0,nivel_0,True,3.402,3.658
+level,24341,Large Bone,nivel_0,nivel_0,True,1.875,4.214
+level,24342,Bone Chip,nivel_0,nivel_0,True,0.954,2.818
+level,24343,Bone Shard,nivel_0,nivel_0,True,2.134,2.798
+level,24344,Bone,nivel_0,nivel_0,True,2.926,3.469
+level,24345,Heavy Bone,nivel_0,nivel_0,True,2.843,3.491
+level,24346,Tiny Claw,nivel_0,nivel_0,True,0.845,3.364
+level,24347,Small Claw,nivel_0,nivel_0,True,1.574,3.1
+level,24348,Claw,nivel_0,nivel_0,True,2.632,3.501
+level,24349,Sharp Claw,nivel_0,nivel_0,True,2.683,3.53
+level,24350,Large Claw,nivel_0,nivel_0,True,1.763,4.239
+level,24351,Vicious Claw,nivel_0,nivel_0,True,3.293,3.714
+level,24352,Tiny Fang,nivel_0,nivel_0,True,0.699,2.705
+level,24353,Small Fang,nivel_0,nivel_0,True,2.033,2.915
+level,24354,Fang,nivel_0,nivel_0,True,2.86,3.464
+level,24355,Sharp Fang,nivel_0,nivel_0,True,2.775,3.478
+level,24356,Large Fang,nivel_0,nivel_0,True,1.653,4.282
+level,24357,Vicious Fang,nivel_0,nivel_0,True,3.162,3.772
+level,24358,Ancient Bone,nivel_0,nivel_0,True,3.37,3.703
+level,24363,Engraved Totem,nivel_0,nivel_0,True,2.593,3.65
+level,29166,Tooth of Frostfang,nivel_80,nivel_80,True,5.791,0.301
+level,29167,Spark,nivel_80,nivel_80,True,6.17,0.301
+level,29168,The Bard,nivel_80,nivel_80,True,5.342,0.301
+level,29169,Dawn,nivel_80,nivel_80,True,6.253,0.301
+level,29170,The Colossus,nivel_80,nivel_80,True,5.785,0.301
+level,29171,Carcharias,nivel_80,nivel_80,True,5.636,0.301
+level,29172,Leaf of Kudzu,nivel_80,nivel_80,True,5.813,0.301
+level,29173,The Energizer,nivel_80,nivel_80,True,5.342,0.301
+level,29174,Chaos Gun,nivel_80,nivel_80,True,5.404,0.301
+level,29175,The Hunter,nivel_80,nivel_80,True,5.729,0.301
+level,29176,Storm,nivel_80,nivel_80,True,5.477,0.301
+level,29177,The Chosen,nivel_80,nivel_80,True,5.851,0.301
+level,29178,The Lover,nivel_80,nivel_80,True,5.54,0.301
+level,29179,Rage,nivel_80,nivel_80,True,5.312,0.301
+level,29180,The Legend,nivel_80,nivel_80,True,5.803,0.301
+level,29181,Zap,nivel_80,nivel_80,True,5.804,0.301
+level,29182,Rodgort's Flame,nivel_80,nivel_80,True,5.431,0.0
+level,29183,Venom,nivel_80,nivel_80,True,5.444,0.301
+level,29184,Howl,nivel_80,nivel_80,True,5.555,0.301
+level,29185,Dusk,nivel_80,nivel_80,True,6.564,0.301
+level,49424,+1 Agony Infusion,nivel_0,nivel_0,True,1.176,4.424
+level,49425,+2 Agony Infusion,nivel_0,nivel_0,True,2.394,0.477
+level,49426,+3 Agony Infusion,nivel_0,nivel_0,True,2.754,1.041
+level,49427,+4 Agony Infusion,nivel_0,nivel_0,True,3.209,0.903
+level,49428,+5 Agony Infusion,nivel_0,nivel_0,True,3.509,1.763
+level,49429,+6 Agony Infusion,nivel_0,nivel_0,True,3.747,1.176
+level,49430,+7 Agony Infusion,nivel_0,nivel_0,True,4.108,1.531
+level,49431,+8 Agony Infusion,nivel_0,nivel_0,True,4.418,1.342
+level,49432,+9 Agony Infusion,nivel_0,nivel_0,True,4.697,2.13
+level,49433,+10 Agony Infusion,nivel_0,nivel_0,True,5.015,1.568
+level,49434,+11 Agony Infusion,nivel_0,nivel_0,True,5.303,1.079
+level,49435,+12 Agony Infusion,nivel_0,nivel_0,True,5.621,0.477
+level,49436,+13 Agony Infusion,nivel_0,nivel_0,True,5.918,0.301
+level,49437,+14 Agony Infusion,nivel_0,nivel_80,False,6.22,0.0
+level,49438,+15 Agony Infusion,nivel_0,nivel_80,False,6.531,0.0
+level,49439,+16 Agony Infusion,nivel_0,nivel_0,True,6.838,0.0
+level,49440,+17 Agony Infusion,nivel_0,nivel_0,True,7.146,0.0
+level,49441,+18 Agony Infusion,nivel_0,nivel_0,True,7.477,0.0
+level,49442,+19 Agony Infusion,nivel_0,nivel_0,True,7.932,0.0
+level,66930,Mordrem Sliver,nivel_0,nivel_0,True,1.602,1.0
+level,68942,Evergreen Lodestone,nivel_0,nivel_0,True,2.418,2.425
+level,68952,Evergreen Sliver,nivel_0,nivel_0,True,1.613,2.117
+level,70842,Mordrem Lodestone,nivel_0,nivel_0,True,2.102,2.55
+level,73034,Vial of Linseed Oil,nivel_80,nivel_0,False,3.535,3.006
+level,73248,Stabilizing Matrix,nivel_0,nivel_0,True,3.516,3.51
+level,89140,Lucent Mote,nivel_0,nivel_0,True,1.549,4.459
+level,89271,Pile of Lucent Crystal,nivel_0,nivel_0,True,2.535,3.778
+level,95814,Dragon's Insight,nivel_80,nivel_80,True,6.22,0.0
+level,95834,Dragon's Flight,nivel_80,nivel_80,True,6.219,0.0
+level,95920,Dragon's Weight,nivel_80,nivel_80,True,6.217,0.0
+level,95967,Dragon's Claw,nivel_80,nivel_80,True,6.22,0.301
+level,95994,Dragon's Fang,nivel_80,nivel_80,True,6.22,0.301
+level,96193,Dragon's Wisdom,nivel_80,nivel_80,True,6.224,0.0
+level,96303,Dragon's Gaze,nivel_80,nivel_80,True,6.217,0.0
+level,96330,Dragon's Wing,nivel_80,nivel_80,True,6.224,0.0
+level,96357,Dragon's Bite,nivel_80,nivel_80,True,6.206,0.0
+level,96827,Dragon's Tail,nivel_80,nivel_80,True,6.226,0.0
+level,96915,Dragon's Argument,nivel_80,nivel_80,True,6.226,0.0
+level,96925,Dragon's Breath,nivel_80,nivel_80,True,6.217,0.0
+level,97267,Dragon's Persuasion,nivel_80,nivel_80,True,6.229,0.0
+level,97449,Dragon's Rending,nivel_80,nivel_80,True,6.209,0.0
+level,97513,Dragon's Voice,nivel_80,nivel_80,True,6.22,0.0
+level,97691,Dragon's Scale,nivel_80,nivel_80,True,6.216,0.0
+level,103973,Nyr Hrammr,nivel_80,nivel_80,True,6.587,0.301

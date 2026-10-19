@@ -1,0 +1,37 @@
+objetivo,itemID,name,clase_real,clase_predicha,log_precio_venta,log_volumen_venta
+rarity,19698,Gold Ore,Basic,Fine,1.602,4.182
+rarity,19700,Mithril Ore,Basic,Fine,1.623,4.728
+rarity,19701,Orichalcum Ore,Basic,Fine,2.299,4.177
+rarity,19721,Glob of Ectoplasm,Exotic,Rare,3.363,4.336
+rarity,19722,Elder Wood Log,Basic,Fine,1.756,4.738
+rarity,19725,Ancient Wood Log,Basic,Fine,2.217,3.893
+rarity,19732,Hardened Leather Section,Basic,Fine,2.79,3.766
+rarity,24274,Pile of Radiant Dust,Fine,Rare,2.916,3.772
+rarity,24277,Pile of Crystalline Dust,Rare,Fine,3.121,4.006
+rarity,24282,Potent Venom Sac,Fine,Basic,1.712,4.255
+rarity,24342,Bone Chip,Fine,Basic,0.954,2.818
+rarity,24345,Heavy Bone,Fine,Basic,2.843,3.491
+rarity,24351,Vicious Claw,Rare,Fine,3.293,3.714
+rarity,24353,Small Fang,Fine,Basic,2.033,2.915
+rarity,24356,Large Fang,Fine,Basic,1.653,4.282
+rarity,49424,+1 Agony Infusion,Ascended,Basic,1.176,4.424
+rarity,49435,+12 Agony Infusion,Ascended,Exotic,5.621,0.477
+rarity,49436,+13 Agony Infusion,Ascended,Exotic,5.918,0.301
+rarity,49437,+14 Agony Infusion,Ascended,Exotic,6.22,0.0
+rarity,49438,+15 Agony Infusion,Ascended,Exotic,6.531,0.0
+rarity,49439,+16 Agony Infusion,Ascended,Exotic,6.838,0.0
+rarity,66930,Mordrem Sliver,Rare,Ascended,1.602,1.0
+rarity,68942,Evergreen Lodestone,Exotic,Fine,2.418,2.425
+rarity,70842,Mordrem Lodestone,Exotic,Fine,2.102,2.55
+rarity,73034,Vial of Linseed Oil,Fine,Rare,3.535,3.006
+rarity,73248,Stabilizing Matrix,Ascended,Rare,3.516,3.51
+rarity,89140,Lucent Mote,Basic,Fine,1.549,4.459
+rarity,89271,Pile of Lucent Crystal,Fine,Basic,2.535,3.778
+type,49424,+1 Agony Infusion,UpgradeComponent,CraftingMaterial,1.176,4.424
+type,49435,+12 Agony Infusion,UpgradeComponent,Weapon,5.621,0.477
+type,49436,+13 Agony Infusion,UpgradeComponent,Weapon,5.918,0.301
+type,49437,+14 Agony Infusion,UpgradeComponent,Weapon,6.22,0.0
+type,49438,+15 Agony Infusion,UpgradeComponent,Weapon,6.531,0.0
+level,49437,+14 Agony Infusion,nivel_0,nivel_80,6.22,0.0
+level,49438,+15 Agony Infusion,nivel_0,nivel_80,6.531,0.0
+level,73034,Vial of Linseed Oil,nivel_80,nivel_0,3.535,3.006
