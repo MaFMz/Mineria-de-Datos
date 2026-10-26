@@ -1,0 +1,4 @@
+etiqueta,n_clases,n_items,ARI,NMI,homogeneidad,completitud
+rarity,5,139,0.2392,0.4318,0.3474,0.5703
+type,5,139,0.6546,0.6108,0.5691,0.6591
+level,2,139,0.6825,0.5757,0.7401,0.4711

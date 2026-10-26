@@ -1,0 +1,140 @@
+itemID,name,cluster,silueta,rarity,type,level,log_precio_venta,log_volumen_venta,log_spread,volatilidad_precio,frac_dias_sin_ventas
+19697,Copper Ore,0,0.6764,Basic,CraftingMaterial,nivel_0,1.6812,4.0297,0.0817,0.1384,0.0011
+19698,Gold Ore,0,0.6636,Basic,CraftingMaterial,nivel_0,1.6021,4.1822,0.031,0.203,0.0011
+19699,Iron Ore,0,0.6731,Basic,CraftingMaterial,nivel_0,2.1139,4.5103,0.0742,0.1261,0.0011
+19700,Mithril Ore,0,0.6596,Basic,CraftingMaterial,nivel_0,1.6232,4.728,0.0239,0.1641,0.0011
+19701,Orichalcum Ore,0,0.66,Basic,CraftingMaterial,nivel_0,2.2989,4.1773,0.0122,0.1503,0.0006
+19702,Platinum Ore,0,0.6942,Basic,CraftingMaterial,nivel_0,2.2625,4.0773,0.0404,0.146,0.0011
+19703,Silver Ore,0,0.6369,Basic,CraftingMaterial,nivel_0,1.2041,4.6222,0.0969,0.1469,0.0017
+19718,Jute Scrap,0,0.5102,Basic,CraftingMaterial,nivel_0,1.4771,3.7031,0.1127,0.2762,0.0028
+19719,Rawhide Leather Section,0,0.5415,Basic,CraftingMaterial,nivel_0,1.2041,3.6093,0.1165,0.2449,0.0011
+19721,Glob of Ectoplasm,0,0.6275,Exotic,Trophy,nivel_0,3.3632,4.3357,0.0221,0.1555,0.0006
+19722,Elder Wood Log,0,0.6045,Basic,CraftingMaterial,nivel_0,1.7559,4.7381,0.0252,0.2494,0.0006
+19723,Green Wood Log,0,0.4918,Basic,CraftingMaterial,nivel_0,1.1461,3.9679,0.1461,0.2337,0.0017
+19724,Hard Wood Log,0,0.6735,Basic,CraftingMaterial,nivel_0,2.1584,3.9764,0.0723,0.1876,0.0017
+19725,Ancient Wood Log,0,0.6789,Basic,CraftingMaterial,nivel_0,2.2175,3.8934,0.0526,0.0913,0.0006
+19726,Soft Wood Log,0,0.6297,Basic,CraftingMaterial,nivel_0,1.3802,4.1633,0.1035,0.18,0.0017
+19727,Seasoned Wood Log,0,0.6513,Basic,CraftingMaterial,nivel_0,1.9542,4.0231,0.0969,0.1167,0.0006
+19728,Thin Leather Section,0,0.3643,Basic,CraftingMaterial,nivel_0,1.5185,3.9679,0.1162,0.3647,0.0
+19729,Thick Leather Section,0,0.6762,Basic,CraftingMaterial,nivel_0,1.6335,4.5949,0.037,0.16,0.0
+19730,Coarse Leather Section,0,0.607,Basic,CraftingMaterial,nivel_0,1.6628,3.7664,0.0746,0.251,0.0011
+19731,Rugged Leather Section,0,0.6476,Basic,CraftingMaterial,nivel_0,2.2765,3.8758,0.0723,0.2147,0.0
+19732,Hardened Leather Section,0,0.5532,Basic,CraftingMaterial,nivel_0,2.7903,3.766,0.0177,0.2631,0.0011
+19739,Wool Scrap,0,0.4559,Basic,CraftingMaterial,nivel_0,1.8921,3.8832,0.0892,0.3303,0.0006
+19741,Cotton Scrap,0,0.5607,Basic,CraftingMaterial,nivel_0,1.1761,3.851,0.0859,0.2753,0.0011
+19743,Linen Scrap,0,0.5939,Basic,CraftingMaterial,nivel_0,1.7853,3.9297,0.0825,0.2563,0.0
+19745,Gossamer Scrap,0,0.6877,Basic,CraftingMaterial,nivel_0,2.0374,4.4176,0.0444,0.132,0.0017
+19748,Silk Scrap,0,0.6581,Basic,CraftingMaterial,nivel_0,1.2304,4.8453,0.0512,0.1734,0.0
+19976,Mystic Coin,0,0.5342,Rare,Trophy,nivel_0,4.2943,3.5571,0.0208,0.1566,0.0011
+24272,Pile of Glittering Dust,0,0.6715,Fine,CraftingMaterial,nivel_0,1.8633,3.1827,0.043,0.1392,0.0028
+24273,Pile of Shimmering Dust,0,0.6679,Fine,CraftingMaterial,nivel_0,2.4265,3.17,0.064,0.1316,0.0022
+24274,Pile of Radiant Dust,0,0.6604,Fine,CraftingMaterial,nivel_0,2.9165,3.7721,0.0242,0.1398,0.0006
+24275,Pile of Luminous Dust,0,0.6427,Fine,CraftingMaterial,nivel_0,2.8704,3.7814,0.0329,0.2012,0.0006
+24276,Pile of Incandescent Dust,0,0.6593,Fine,CraftingMaterial,nivel_0,2.0934,4.2595,0.0114,0.1541,0.0006
+24277,Pile of Crystalline Dust,0,0.6355,Rare,CraftingMaterial,nivel_0,3.1206,4.0057,0.0131,0.1438,0.0
+24278,Tiny Venom Sac,0,0.5649,Fine,CraftingMaterial,nivel_0,0.699,3.1509,0.0969,0.0429,0.0022
+24279,Small Venom Sac,0,0.4536,Fine,CraftingMaterial,nivel_0,1.5563,3.073,0.1549,0.2013,0.005
+24280,Venom Sac,0,0.672,Fine,CraftingMaterial,nivel_0,2.6335,3.4763,0.0702,0.124,0.0011
+24281,Full Venom Sac,0,0.677,Fine,CraftingMaterial,nivel_0,2.6222,3.5314,0.0599,0.1106,0.0006
+24282,Potent Venom Sac,0,0.6601,Fine,CraftingMaterial,nivel_0,1.7118,4.2553,0.0334,0.2111,0.0011
+24283,Powerful Venom Sac,0,0.6439,Rare,CraftingMaterial,nivel_0,3.3402,3.7086,0.0335,0.1378,0.0011
+24284,Tiny Scale,0,0.4601,Fine,CraftingMaterial,nivel_0,0.7782,3.3781,0.1761,0.0919,0.0011
+24285,Small Scale,0,0.5766,Fine,CraftingMaterial,nivel_0,1.8808,3.0396,0.1153,0.1671,0.0056
+24286,Scale,0,0.6763,Fine,CraftingMaterial,nivel_0,2.7308,3.5153,0.0627,0.1305,0.0011
+24287,Smooth Scale,0,0.6801,Fine,CraftingMaterial,nivel_0,2.6107,3.5446,0.0509,0.1135,0.0022
+24288,Large Scale,0,0.6787,Fine,CraftingMaterial,nivel_0,1.8573,4.1613,0.0253,0.1353,0.0017
+24289,Armored Scale,0,0.6032,Rare,CraftingMaterial,nivel_0,3.3755,3.6149,0.029,0.0726,0.0022
+24290,Vial of Weak Blood,0,0.4627,Fine,CraftingMaterial,nivel_0,0.8451,3.4585,0.1761,0.0874,0.0011
+24291,Vial of Thin Blood,0,0.4509,Fine,CraftingMaterial,nivel_0,1.6532,3.1991,0.1663,0.167,0.0028
+24292,Vial of Blood,0,0.6592,Fine,CraftingMaterial,nivel_0,2.5752,3.5247,0.0807,0.1124,0.0028
+24293,Vial of Thick Blood,0,0.6647,Fine,CraftingMaterial,nivel_0,2.6053,3.5403,0.064,0.0911,0.0011
+24294,Vial of Potent Blood,0,0.6579,Fine,CraftingMaterial,nivel_0,2.0414,4.2091,0.0207,0.1982,0.0017
+24295,Vial of Powerful Blood,0,0.6179,Rare,CraftingMaterial,nivel_0,3.4454,3.7105,0.0181,0.1111,0.0011
+24296,Tiny Totem,0,0.5299,Fine,CraftingMaterial,nivel_0,0.7782,3.5015,0.1461,0.0783,0.0022
+24297,Small Totem,0,0.4507,Fine,CraftingMaterial,nivel_0,1.6532,3.1611,0.1663,0.1632,0.0039
+24298,Totem,0,0.669,Fine,CraftingMaterial,nivel_0,2.5563,3.556,0.0769,0.1219,0.0011
+24299,Intricate Totem,0,0.654,Fine,CraftingMaterial,nivel_0,1.9685,4.1939,0.0175,0.198,0.0017
+24300,Elaborate Totem,0,0.6284,Rare,CraftingMaterial,nivel_0,3.402,3.6584,0.023,0.1291,0.0017
+24341,Large Bone,0,0.6682,Fine,CraftingMaterial,nivel_0,1.8751,4.2137,0.0209,0.1793,0.0017
+24342,Bone Chip,0,0.2775,Fine,CraftingMaterial,nivel_0,0.9542,2.8179,0.0792,0.4045,0.0217
+24343,Bone Shard,0,0.5201,Fine,CraftingMaterial,nivel_0,2.1335,2.7983,0.0356,0.268,0.0145
+24344,Bone,0,0.6286,Fine,CraftingMaterial,nivel_0,2.9261,3.4692,0.0383,0.205,0.0006
+24345,Heavy Bone,0,0.5425,Fine,CraftingMaterial,nivel_0,2.8429,3.4908,0.0345,0.2683,0.0017
+24346,Tiny Claw,0,0.5259,Fine,CraftingMaterial,nivel_0,0.8451,3.3642,0.1461,0.0741,0.0006
+24347,Small Claw,0,0.5393,Fine,CraftingMaterial,nivel_0,1.574,3.0995,0.1249,0.2001,0.0039
+24348,Claw,0,0.6689,Fine,CraftingMaterial,nivel_0,2.6325,3.5013,0.0744,0.1378,0.0017
+24349,Sharp Claw,0,0.6602,Fine,CraftingMaterial,nivel_0,2.6826,3.5304,0.0499,0.1911,0.0017
+24350,Large Claw,0,0.639,Fine,CraftingMaterial,nivel_0,1.7634,4.2388,0.0235,0.2247,0.0006
+24351,Vicious Claw,0,0.6196,Rare,CraftingMaterial,nivel_0,3.293,3.7135,0.0487,0.1988,0.0017
+24352,Tiny Fang,0,0.5583,Fine,CraftingMaterial,nivel_0,0.699,2.705,0.0969,0.1477,0.0979
+24353,Small Fang,0,0.594,Fine,CraftingMaterial,nivel_0,2.0334,2.9149,0.0758,0.2178,0.0067
+24354,Fang,0,0.6522,Fine,CraftingMaterial,nivel_0,2.86,3.4638,0.0455,0.186,0.0022
+24355,Sharp Fang,0,0.6693,Fine,CraftingMaterial,nivel_0,2.7752,3.4785,0.0358,0.1253,0.0006
+24356,Large Fang,0,0.6545,Fine,CraftingMaterial,nivel_0,1.6532,4.282,0.0263,0.2093,0.0011
+24357,Vicious Fang,0,0.6585,Rare,CraftingMaterial,nivel_0,3.1623,3.7723,0.0367,0.1249,0.0006
+24358,Ancient Bone,0,0.6109,Rare,CraftingMaterial,nivel_0,3.3702,3.7029,0.036,0.0729,0.0017
+24363,Engraved Totem,0,0.6844,Fine,CraftingMaterial,nivel_0,2.5933,3.6497,0.0504,0.1633,0.0011
+29166,Tooth of Frostfang,2,0.7687,Exotic,Weapon,nivel_80,5.7906,0.301,0.1113,0.4198,0.4333
+29167,Spark,2,0.7339,Exotic,Weapon,nivel_80,6.1703,0.301,0.0963,0.4119,0.421
+29168,The Bard,2,0.6198,Exotic,Weapon,nivel_80,5.3419,0.301,0.1545,0.3048,0.4533
+29169,Dawn,2,0.5618,Exotic,Weapon,nivel_80,6.2527,0.301,0.0934,0.2925,0.3092
+29170,The Colossus,2,0.7774,Exotic,Weapon,nivel_80,5.7846,0.301,0.1223,0.4018,0.4577
+29171,Carcharias,2,0.2849,Exotic,Weapon,nivel_80,5.6363,0.301,0.1252,0.2133,0.4105
+29172,Leaf of Kudzu,2,0.6411,Exotic,Weapon,nivel_80,5.8129,0.301,0.1174,0.2983,0.4377
+29173,The Energizer,2,0.7496,Exotic,Weapon,nivel_80,5.3425,0.301,0.1395,0.4164,0.4755
+29174,Chaos Gun,2,0.7528,Exotic,Weapon,nivel_80,5.4042,0.301,0.1249,0.436,0.4789
+29175,The Hunter,2,0.7285,Exotic,Weapon,nivel_80,5.7291,0.301,0.1079,0.3433,0.4177
+29176,Storm,2,0.7117,Exotic,Weapon,nivel_80,5.4772,0.301,0.1303,0.4715,0.4744
+29177,The Chosen,2,0.7586,Exotic,Weapon,nivel_80,5.8507,0.301,0.1084,0.4251,0.4627
+29178,The Lover,2,0.7613,Exotic,Weapon,nivel_80,5.5403,0.301,0.1361,0.3873,0.4755
+29179,Rage,2,0.4375,Exotic,Weapon,nivel_80,5.3118,0.301,0.1687,0.2577,0.4772
+29180,The Legend,2,0.7646,Exotic,Weapon,nivel_80,5.8029,0.301,0.104,0.3995,0.4216
+29181,Zap,2,0.7422,Exotic,Weapon,nivel_80,5.8039,0.301,0.097,0.3802,0.401
+29182,Rodgort's Flame,2,0.7244,Exotic,Weapon,nivel_80,5.4313,0.0,0.1366,0.444,0.5067
+29183,Venom,2,0.5601,Exotic,Weapon,nivel_80,5.4439,0.301,0.1446,0.2761,0.4566
+29184,Howl,2,0.7218,Exotic,Weapon,nivel_80,5.5551,0.301,0.1449,0.3577,0.4883
+29185,Dusk,2,0.4519,Exotic,Weapon,nivel_80,6.5636,0.301,0.0771,0.2724,0.3198
+49424,+1 Agony Infusion,0,0.4968,Ascended,UpgradeComponent,nivel_0,1.1761,4.424,0.1047,0.3064,0.0017
+49425,+2 Agony Infusion,1,0.0382,Ascended,UpgradeComponent,nivel_0,2.3945,0.4771,0.1524,0.0922,0.337
+49426,+3 Agony Infusion,0,0.1859,Ascended,UpgradeComponent,nivel_0,2.7536,1.0414,0.0551,0.0735,0.2742
+49427,+4 Agony Infusion,0,0.2021,Ascended,UpgradeComponent,nivel_0,3.2087,0.9031,0.1344,0.0596,0.0256
+49428,+5 Agony Infusion,0,0.3473,Ascended,UpgradeComponent,nivel_0,3.5089,1.7634,0.1123,0.0573,0.0095
+49429,+6 Agony Infusion,0,0.3122,Ascended,UpgradeComponent,nivel_0,3.7471,1.1761,0.0492,0.0577,0.0222
+49430,+7 Agony Infusion,0,0.2603,Ascended,UpgradeComponent,nivel_0,4.1081,1.5315,0.0981,0.039,0.0061
+49431,+8 Agony Infusion,0,0.1976,Ascended,UpgradeComponent,nivel_0,4.4181,1.3424,0.0956,0.0371,0.005
+49432,+9 Agony Infusion,0,0.291,Ascended,UpgradeComponent,nivel_0,4.6966,2.1303,0.0776,0.029,0.0011
+49433,+10 Agony Infusion,0,0.1633,Ascended,UpgradeComponent,nivel_0,5.0145,1.5682,0.0872,0.0322,0.0022
+49434,+11 Agony Infusion,0,0.0215,Ascended,UpgradeComponent,nivel_0,5.3031,1.0792,0.0853,0.0319,0.0267
+49435,+12 Agony Infusion,1,0.3749,Ascended,UpgradeComponent,nivel_0,5.6214,0.4771,0.0978,0.0368,0.2809
+49436,+13 Agony Infusion,1,0.5001,Ascended,UpgradeComponent,nivel_0,5.9178,0.301,0.0957,0.0386,0.4032
+49437,+14 Agony Infusion,1,0.6201,Ascended,UpgradeComponent,nivel_0,6.2198,0.0,0.104,0.0381,0.5601
+49438,+15 Agony Infusion,1,0.6183,Ascended,UpgradeComponent,nivel_0,6.5315,0.0,0.1088,0.04,0.698
+49439,+16 Agony Infusion,1,0.6151,Ascended,UpgradeComponent,nivel_0,6.8376,0.0,0.0991,0.037,0.6346
+49440,+17 Agony Infusion,1,0.2795,Ascended,UpgradeComponent,nivel_0,7.1462,0.0,0.2216,0.0735,0.9722
+49441,+18 Agony Infusion,1,0.1305,Ascended,UpgradeComponent,nivel_0,7.4771,0.0,0.3293,0.106,0.9859
+49442,+19 Agony Infusion,1,0.0764,Ascended,UpgradeComponent,nivel_0,7.9322,0.0,0.5341,0.0319,0.9945
+66930,Mordrem Sliver,0,0.1446,Rare,Gizmo,nivel_0,1.6021,1.0,0.011,0.032,0.4327
+68942,Evergreen Lodestone,0,0.0465,Exotic,CraftingMaterial,nivel_0,2.4183,2.4249,0.0288,0.4884,0.0412
+68952,Evergreen Sliver,0,0.3734,Rare,Gizmo,nivel_0,1.6128,2.1173,0.011,0.1962,0.3276
+70842,Mordrem Lodestone,0,0.4291,Exotic,CraftingMaterial,nivel_0,2.1021,2.5502,0.1326,0.2079,0.0534
+73034,Vial of Linseed Oil,0,0.5797,Fine,CraftingMaterial,nivel_80,3.5349,3.0056,0.0212,0.097,0.0017
+73248,Stabilizing Matrix,0,0.5867,Ascended,CraftingMaterial,nivel_0,3.516,3.5103,0.0397,0.0649,0.0017
+89140,Lucent Mote,0,0.3144,Basic,CraftingMaterial,nivel_0,1.5491,4.4588,0.0193,0.4484,0.0017
+89271,Pile of Lucent Crystal,0,0.233,Fine,CraftingMaterial,nivel_0,2.5349,3.7776,0.0239,0.4544,0.0
+95814,Dragon's Insight,1,0.5897,Exotic,Weapon,nivel_80,6.2201,0.0,0.094,0.0799,0.5673
+95834,Dragon's Flight,1,0.6179,Exotic,Weapon,nivel_80,6.2188,0.0,0.0949,0.0702,0.5959
+95920,Dragon's Weight,1,0.5697,Exotic,Weapon,nivel_80,6.2175,0.0,0.093,0.0687,0.5047
+95967,Dragon's Claw,1,0.5465,Exotic,Weapon,nivel_80,6.22,0.301,0.0879,0.0735,0.4994
+95994,Dragon's Fang,1,0.5629,Exotic,Weapon,nivel_80,6.2201,0.301,0.0891,0.064,0.4985
+96193,Dragon's Wisdom,1,0.6245,Exotic,Weapon,nivel_80,6.2237,0.0,0.0991,0.0684,0.6503
+96303,Dragon's Gaze,1,0.6043,Exotic,Weapon,nivel_80,6.2175,0.0,0.1057,0.0626,0.7287
+96330,Dragon's Wing,1,0.6277,Exotic,Weapon,nivel_80,6.2242,0.0,0.0975,0.0598,0.6831
+96357,Dragon's Bite,1,0.5882,Exotic,Weapon,nivel_80,6.2058,0.0,0.0945,0.0741,0.5415
+96827,Dragon's Tail,1,0.6303,Exotic,Weapon,nivel_80,6.2263,0.0,0.0982,0.0577,0.6806
+96915,Dragon's Argument,1,0.6224,Exotic,Weapon,nivel_80,6.2255,0.0,0.094,0.0651,0.5892
+96925,Dragon's Breath,1,0.606,Exotic,Weapon,nivel_80,6.2175,0.0,0.1007,0.0663,0.7223
+97267,Dragon's Persuasion,1,0.5992,Exotic,Weapon,nivel_80,6.2292,0.0,0.0993,0.0795,0.6826
+97449,Dragon's Rending,1,0.6027,Exotic,Weapon,nivel_80,6.2092,0.0,0.0895,0.0722,0.5766
+97513,Dragon's Voice,1,0.5795,Exotic,Weapon,nivel_80,6.2199,0.0,0.1061,0.0668,0.7595
+97691,Dragon's Scale,1,0.5883,Exotic,Weapon,nivel_80,6.2162,0.0,0.1005,0.0729,0.7363
+103973,Nyr Hrammr,1,0.5284,Exotic,Weapon,nivel_80,6.5871,0.301,0.0841,0.0572,0.4635

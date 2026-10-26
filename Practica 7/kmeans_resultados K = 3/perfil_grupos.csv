@@ -1,0 +1,4 @@
+cluster,n_items,precio_venta_mediano_cobre,ventas_diarias_medianas,razon_venta_compra,volatilidad_precio_log10,frac_dias_sin_ventas,silueta_media,rarity_dominante,type_dominante,level_dominante
+0,93,136.0,4119.0,1.1287,0.1541,0.0017,0.5451,Fine (42/93),CraftingMaterial (79/93),nivel_0 (92/93)
+1,26,1659748.4924,0.0,1.255,0.0666,0.6152,0.5131,Exotic (17/26),Weapon (17/26),nivel_80 (17/26)
+2,20,481621.9051,1.0,1.3292,0.3837,0.4549,0.6626,Exotic (20/20),Weapon (20/20),nivel_80 (20/20)
