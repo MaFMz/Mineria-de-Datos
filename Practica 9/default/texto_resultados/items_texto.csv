@@ -1,0 +1,247 @@
+itemID,name,description,flags,type,rarity,level,precio_mediano,cluster,tiene_descripcion,n_palabras_nombre,n_palabras_desc
+19697,Copper Ore,Refine into Copper Ingots or use Tin to refine into Bronze Ingots.,['NoSalvage'],CraftingMaterial,Basic,0,48.0,grupo_0,True,2,12
+19698,Gold Ore,Refine into Ingots.,['NoSalvage'],CraftingMaterial,Basic,0,40.0,grupo_0,True,2,3
+19699,Iron Ore,Refine into Iron Ingots or use Coal to refine into Steel Ingots.,['NoSalvage'],CraftingMaterial,Basic,0,130.0,grupo_0,True,2,12
+19700,Mithril Ore,Refine into Ingots.,['NoSalvage'],CraftingMaterial,Basic,0,42.0,grupo_0,True,2,3
+19701,Orichalcum Ore,Refine into Ingots.,['NoSalvage'],CraftingMaterial,Basic,0,199.0,grupo_0,True,2,3
+19702,Platinum Ore,Refine into Platinum Ingots or use Primordium to refine into Darksteel Ingots.,['NoSalvage'],CraftingMaterial,Basic,0,183.0,grupo_0,True,2,12
+19703,Silver Ore,Refine into Ingots.,['NoSalvage'],CraftingMaterial,Basic,0,16.0,grupo_0,True,2,3
+19718,Jute Scrap,Refine into Bolts.,['NoSalvage'],CraftingMaterial,Basic,0,30.0,grupo_0,True,2,3
+19719,Rawhide Leather Section,Refine into Squares.,['NoSalvage'],CraftingMaterial,Basic,0,16.0,grupo_0,True,3,3
+19721,Glob of Ectoplasm,Salvage Item,[],Trophy,Exotic,0,2308.0,grupo_0,True,3,2
+19722,Elder Wood Log,Refine into Planks.,['NoSalvage'],CraftingMaterial,Basic,0,57.0,grupo_0,True,3,3
+19723,Green Wood Log,Refine into Planks.,['NoSalvage'],CraftingMaterial,Basic,0,14.0,grupo_0,True,3,3
+19724,Hard Wood Log,Refine into Planks.,['NoSalvage'],CraftingMaterial,Basic,0,144.0,grupo_0,True,3,3
+19725,Ancient Wood Log,Refine into Planks.,['NoSalvage'],CraftingMaterial,Basic,0,165.0,grupo_0,True,3,3
+19726,Soft Wood Log,Refine into Planks.,['NoSalvage'],CraftingMaterial,Basic,0,24.0,grupo_0,True,3,3
+19727,Seasoned Wood Log,Refine into Planks.,['NoSalvage'],CraftingMaterial,Basic,0,90.0,grupo_0,True,3,3
+19728,Thin Leather Section,Refine into Squares.,['NoSalvage'],CraftingMaterial,Basic,0,33.0,grupo_0,True,3,3
+19729,Thick Leather Section,Refine into Squares.,['NoSalvage'],CraftingMaterial,Basic,0,43.0,grupo_0,True,3,3
+19730,Coarse Leather Section,Refine into Squares.,['NoSalvage'],CraftingMaterial,Basic,0,46.0,grupo_0,True,3,3
+19731,Rugged Leather Section,Refine into Squares.,['NoSalvage'],CraftingMaterial,Basic,0,189.0,grupo_0,True,3,3
+19732,Hardened Leather Section,Refine into Squares.,['NoSalvage'],CraftingMaterial,Basic,0,617.0,grupo_0,True,3,3
+19739,Wool Scrap,Refine into Bolts.,['NoSalvage'],CraftingMaterial,Basic,0,78.0,grupo_0,True,2,3
+19741,Cotton Scrap,Refine into Bolts.,['NoSalvage'],CraftingMaterial,Basic,0,15.0,grupo_0,True,2,3
+19743,Linen Scrap,Refine into Bolts.,['NoSalvage'],CraftingMaterial,Basic,0,61.0,grupo_0,True,2,3
+19745,Gossamer Scrap,Refine into Bolts.,['NoSalvage'],CraftingMaterial,Basic,0,109.0,grupo_0,True,2,3
+19748,Silk Scrap,Refine into Bolts.,['NoSalvage'],CraftingMaterial,Basic,0,17.0,grupo_0,True,2,3
+19976,Mystic Coin,"Coins are used to create high-level weapons at the Mystic Forge in Lion's Arch. 
+Part of Zommoros's favorite trades.","['NoSalvage', 'NoSell']",Trophy,Rare,0,19692.0,grupo_0,True,2,20
+24272,Pile of Glittering Dust,,['NoSalvage'],CraftingMaterial,Fine,0,73.0,grupo_0,False,4,0
+24273,Pile of Shimmering Dust,,['NoSalvage'],CraftingMaterial,Fine,0,267.0,grupo_0,False,4,0
+24274,Pile of Radiant Dust,,['NoSalvage'],CraftingMaterial,Fine,0,825.0,grupo_0,False,4,0
+24275,Pile of Luminous Dust,,['NoSalvage'],CraftingMaterial,Fine,0,742.0,grupo_0,False,4,0
+24276,Pile of Incandescent Dust,,['NoSalvage'],CraftingMaterial,Fine,0,124.0,grupo_0,False,4,0
+24277,Pile of Crystalline Dust,,['NoSalvage'],CraftingMaterial,Rare,0,1320.0,grupo_0,False,4,0
+24278,Tiny Venom Sac,,['NoSalvage'],CraftingMaterial,Fine,0,5.0,grupo_0,False,3,0
+24279,Small Venom Sac,,['NoSalvage'],CraftingMaterial,Fine,0,36.0,grupo_0,False,3,0
+24280,Venom Sac,,['NoSalvage'],CraftingMaterial,Fine,0,430.0,grupo_0,False,2,0
+24281,Full Venom Sac,,['NoSalvage'],CraftingMaterial,Fine,0,419.0,grupo_0,False,3,0
+24282,Potent Venom Sac,,['NoSalvage'],CraftingMaterial,Fine,0,51.5,grupo_0,False,3,0
+24283,Powerful Venom Sac,,['NoSalvage'],CraftingMaterial,Rare,0,2189.0,grupo_0,False,3,0
+24284,Tiny Scale,,['NoSalvage'],CraftingMaterial,Fine,0,6.0,grupo_0,False,2,0
+24285,Small Scale,,['NoSalvage'],CraftingMaterial,Fine,0,76.0,grupo_0,False,2,0
+24286,Scale,,['NoSalvage'],CraftingMaterial,Fine,0,538.0,grupo_0,False,1,0
+24287,Smooth Scale,,['NoSalvage'],CraftingMaterial,Fine,0,408.0,grupo_0,False,2,0
+24288,Large Scale,,['NoSalvage'],CraftingMaterial,Fine,0,72.0,grupo_0,False,2,0
+24289,Armored Scale,,['NoSalvage'],CraftingMaterial,Rare,0,2374.0,grupo_0,False,2,0
+24290,Vial of Weak Blood,,['NoSalvage'],CraftingMaterial,Fine,0,7.0,grupo_0,False,4,0
+24291,Vial of Thin Blood,,['NoSalvage'],CraftingMaterial,Fine,0,45.0,grupo_0,False,4,0
+24292,Vial of Blood,,['NoSalvage'],CraftingMaterial,Fine,0,376.0,grupo_0,False,3,0
+24293,Vial of Thick Blood,,['NoSalvage'],CraftingMaterial,Fine,0,403.0,grupo_0,False,4,0
+24294,Vial of Potent Blood,,['NoSalvage'],CraftingMaterial,Fine,0,110.0,grupo_0,False,4,0
+24295,Vial of Powerful Blood,,['NoSalvage'],CraftingMaterial,Rare,0,2789.0,grupo_0,False,4,0
+24296,Tiny Totem,,['NoSalvage'],CraftingMaterial,Fine,0,6.0,grupo_0,False,2,0
+24297,Small Totem,,['NoSalvage'],CraftingMaterial,Fine,0,45.0,grupo_0,False,2,0
+24298,Totem,,['NoSalvage'],CraftingMaterial,Fine,0,360.0,grupo_0,False,1,0
+24299,Intricate Totem,,['NoSalvage'],CraftingMaterial,Fine,0,93.0,grupo_0,False,2,0
+24300,Elaborate Totem,,['NoSalvage'],CraftingMaterial,Rare,0,2523.5,grupo_0,False,2,0
+24341,Large Bone,,['NoSalvage'],CraftingMaterial,Fine,0,75.0,grupo_0,False,2,0
+24342,Bone Chip,,['NoSalvage'],CraftingMaterial,Fine,0,9.0,grupo_0,False,2,0
+24343,Bone Shard,,['NoSalvage'],CraftingMaterial,Fine,0,136.0,grupo_0,False,2,0
+24344,Bone,,['NoSalvage'],CraftingMaterial,Fine,0,843.5,grupo_0,False,1,0
+24345,Heavy Bone,,['NoSalvage'],CraftingMaterial,Fine,0,696.5,grupo_0,False,2,0
+24346,Tiny Claw,,['NoSalvage'],CraftingMaterial,Fine,0,7.0,grupo_0,False,2,0
+24347,Small Claw,,['NoSalvage'],CraftingMaterial,Fine,0,37.5,grupo_0,False,2,0
+24348,Claw,,['NoSalvage'],CraftingMaterial,Fine,0,429.0,grupo_0,False,1,0
+24349,Sharp Claw,,['NoSalvage'],CraftingMaterial,Fine,0,481.5,grupo_0,False,2,0
+24350,Large Claw,,['NoSalvage'],CraftingMaterial,Fine,0,58.0,grupo_0,False,2,0
+24351,Vicious Claw,,['NoSalvage'],CraftingMaterial,Rare,0,1963.5,grupo_0,False,2,0
+24352,Tiny Fang,,['NoSalvage'],CraftingMaterial,Fine,0,5.0,grupo_0,False,2,0
+24353,Small Fang,,['NoSalvage'],CraftingMaterial,Fine,0,108.0,grupo_0,False,2,0
+24354,Fang,,['NoSalvage'],CraftingMaterial,Fine,0,724.5,grupo_0,False,1,0
+24355,Sharp Fang,,['NoSalvage'],CraftingMaterial,Fine,0,596.0,grupo_0,False,2,0
+24356,Large Fang,,['NoSalvage'],CraftingMaterial,Fine,0,45.0,grupo_0,False,2,0
+24357,Vicious Fang,,['NoSalvage'],CraftingMaterial,Rare,0,1453.0,grupo_0,False,2,0
+24358,Ancient Bone,,['NoSalvage'],CraftingMaterial,Rare,0,2345.5,grupo_0,False,2,0
+24363,Engraved Totem,,['NoSalvage'],CraftingMaterial,Fine,0,392.0,grupo_0,False,2,0
+29166,Tooth of Frostfang,"<c=@flavor>This weapon is used to craft the legendary axe Frostfang.
+
+Combine this weapon in the Mystic Forge with:
+��� 1 Gift of Frostfang
+��� 1 Gift of Mastery
+��� 1 G","['HideSuffix', 'NoSalvage', 'NoSell', 'DeleteWarning', 'SoulBindOnUse']",Weapon,Exotic,80,617522.5,grupo_3,True,3,25
+29167,Spark,"<c=@flavor>This weapon is used to craft the legendary dagger Incinerator.
+
+Combine this weapon in the Mystic Forge with:
+��� 1 Gift of Incinerator
+��� 1 Gift of Mastery
+��� 1 G","['HideSuffix', 'NoSalvage', 'NoSell', 'DeleteWarning', 'SoulBindOnUse']",Weapon,Exotic,80,1479990.5,grupo_3,True,1,25
+29168,The Bard,"<c=@flavor>This weapon is used to craft the legendary focus The Minstrel.
+
+Combine this weapon in the Mystic Forge with:
+��� 1 Gift of The Minstrel
+��� 1 Gift of Mastery
+��� 1 G","['HideSuffix', 'NoSalvage', 'NoSell', 'DeleteWarning', 'SoulBindOnUse']",Weapon,Exotic,80,219730.5,grupo_3,True,2,27
+29169,Dawn,"<c=@flavor>This weapon is used to craft the legendary greatsword Sunrise.
+
+Combine this weapon in the Mystic Forge with:
+��� 1 Gift of Sunrise
+��� 1 Gift of Mastery
+��� 1 G","['HideSuffix', 'NoSalvage', 'NoSell', 'DeleteWarning', 'SoulBindOnUse']",Weapon,Exotic,80,1789525.0,grupo_3,True,1,25
+29170,The Colossus,"<c=@flavor>This weapon is used to craft the legendary hammer The Juggernaut.
+
+Combine this weapon in the Mystic Forge with:
+��� 1 Gift of The Juggernaut
+��� 1 Gift of Mastery
+��� 1 G","['HideSuffix', 'NoSalvage', 'NoSell', 'DeleteWarning', 'SoulBindOnUse']",Weapon,Exotic,80,608972.0,grupo_3,True,2,27
+29171,Carcharias,"<c=@flavor>This weapon is used to craft the legendary spear Kamohoali'i Kotaki.
+
+Combine this weapon in the Mystic Forge with:
+��� 1 Gift of Kamohoali'i Kotaki
+��� 1 Gift of Mastery
+��� 1 G","['HideSuffix', 'NoSalvage', 'NoSell', 'DeleteWarning', 'SoulBindOnUse']",Weapon,Exotic,80,432860.5,grupo_3,True,1,27
+29172,Leaf of Kudzu,"<c=@flavor>This weapon is used to craft the legendary longbow Kudzu.
+
+Combine this weapon in the Mystic Forge with:
+��� 1 Gift of Kudzu
+��� 1 Gift of Mastery
+��� 1 G","['HideSuffix', 'NoSalvage', 'NoSell', 'DeleteWarning', 'SoulBindOnUse']",Weapon,Exotic,80,649988.0,grupo_3,True,3,25
+29173,The Energizer,"<c=@flavor>This weapon is used to craft the legendary mace The Moot.
+
+Combine this weapon in the Mystic Forge with:
+��� 1 Gift of The Moot
+��� 1 Gift of Mastery
+��� 1 G","['HideSuffix', 'NoSalvage', 'NoSell', 'DeleteWarning', 'SoulBindOnUse']",Weapon,Exotic,80,220030.5,grupo_3,True,2,27
+29174,Chaos Gun,"<c=@flavor>This weapon is used to craft the legendary pistol Quip.
+
+Combine this weapon in the Mystic Forge with:
+��� 1 Gift of Quip
+��� 1 Gift of Mastery
+��� 1 G","['HideSuffix', 'NoSalvage', 'NoSell', 'DeleteWarning', 'SoulBindOnUse']",Weapon,Exotic,80,253647.5,grupo_3,True,2,25
+29175,The Hunter,"<c=@flavor>This weapon is used to craft the legendary rifle The Predator.
+
+Combine this weapon in the Mystic Forge with:
+��� 1 Gift of The Predator
+��� 1 Gift of Mastery
+��� 1 G","['HideSuffix', 'NoSalvage', 'NoSell', 'DeleteWarning', 'SoulBindOnUse']",Weapon,Exotic,80,535878.0,grupo_3,True,2,27
+29176,Storm,"<c=@flavor>This weapon is used to craft the legendary scepter Meteorlogicus.
+
+Combine this weapon in the Mystic Forge with:
+��� 1 Gift of Meteorlogicus
+��� 1 Gift of Mastery
+��� 1 G","['HideSuffix', 'NoSalvage', 'NoSell', 'DeleteWarning', 'SoulBindOnUse']",Weapon,Exotic,80,300079.0,grupo_3,True,1,25
+29177,The Chosen,"<c=@flavor>This weapon is used to craft the legendary shield The Flameseeker Prophecies.
+
+Combine this weapon in the Mystic Forge with:
+��� 1 Gift of The Flameseeker Prophecies
+��� 1 Gift of Mastery
+��� 1 G","['HideSuffix', 'NoSalvage', 'NoSell', 'DeleteWarning', 'SoulBindOnUse']",Weapon,Exotic,80,709089.5,grupo_3,True,2,29
+29178,The Lover,"<c=@flavor>This weapon is used to craft the legendary short bow The Dreamer.
+
+Combine this weapon in the Mystic Forge with:
+��� 1 Gift of The Dreamer
+��� 1 Gift of Mastery
+��� 1 G","['HideSuffix', 'NoSalvage', 'NoSell', 'DeleteWarning', 'SoulBindOnUse']",Weapon,Exotic,80,346968.5,grupo_3,True,2,28
+29179,Rage,"<c=@flavor>This weapon is used to craft the legendary harpoon gun Frenzy.
+
+Combine this weapon in the Mystic Forge with:
+��� 1 Gift of Frenzy
+��� 1 Gift of Mastery
+��� 1 G","['HideSuffix', 'NoSalvage', 'NoSell', 'DeleteWarning', 'SoulBindOnUse']",Weapon,Exotic,80,205001.0,grupo_3,True,1,26
+29180,The Legend,"<c=@flavor>This weapon is used to craft the legendary staff The Bifrost.
+
+Combine this weapon in the Mystic Forge with:
+��� 1 Gift of The Bifrost
+��� 1 Gift of Mastery
+��� 1 G","['HideSuffix', 'NoSalvage', 'NoSell', 'DeleteWarning', 'SoulBindOnUse']",Weapon,Exotic,80,635198.5,grupo_3,True,2,27
+29181,Zap,"<c=@flavor>This weapon is used to craft the legendary sword Bolt.
+
+Combine this weapon in the Mystic Forge with:
+��� 1 Gift of Bolt
+��� 1 Gift of Mastery
+��� 1 G","['HideSuffix', 'NoSalvage', 'NoSell', 'DeleteWarning', 'SoulBindOnUse']",Weapon,Exotic,80,636674.5,grupo_3,True,1,25
+29182,Rodgort's Flame,"<c=@flavor>This weapon is used to craft the legendary torch Rodgort.
+
+Combine this weapon in the Mystic Forge with:
+��� 1 Gift of Rodgort
+��� 1 Gift of Mastery
+��� 1 G","['HideSuffix', 'NoSalvage', 'NoSell', 'DeleteWarning', 'SoulBindOnUse']",Weapon,Exotic,80,269991.0,grupo_3,True,2,25
+29183,Venom,"<c=@flavor>This weapon is used to craft the legendary trident Kraitkin.
+
+Combine this weapon in the Mystic Forge with:
+��� 1 Gift of Kraitkin
+��� 1 Gift of Mastery
+��� 1 G","['HideSuffix', 'NoSalvage', 'NoSell', 'DeleteWarning', 'SoulBindOnUse']",Weapon,Exotic,80,277898.5,grupo_3,True,1,25
+29184,Howl,"<c=@flavor>This weapon is used to craft the legendary warhorn Howler.
+
+Combine this weapon in the Mystic Forge with:
+��� 1 Gift of Howler
+��� 1 Gift of Mastery
+��� 1 G","['HideSuffix', 'NoSalvage', 'NoSell', 'DeleteWarning', 'SoulBindOnUse']",Weapon,Exotic,80,359018.5,grupo_3,True,1,25
+29185,Dusk,"<c=@flavor>This weapon is used to craft the legendary greatsword Twilight.
+
+Combine this weapon in the Mystic Forge with:
+��� 1 Gift of Twilight
+��� 1 Gift of Mastery
+��� 1 G","['HideSuffix', 'NoSalvage', 'NoSell', 'DeleteWarning', 'SoulBindOnUse']",Weapon,Exotic,80,3660954.0,grupo_3,True,1,25
+49424,+1 Agony Infusion,Double-click to apply to an unused infusion slot. Used by artificers to craft more powerful agony infusions.,"['NoSalvage', 'NoSell']",UpgradeComponent,Ascended,0,15.0,grupo_0,True,2,18
+49425,+2 Agony Infusion,Double-click to apply to an unused infusion slot. Used by artificers to craft more powerful agony infusions.,"['NoMysticForge', 'NoSalvage', 'NoSell']",UpgradeComponent,Ascended,0,248.0,grupo_1,True,2,18
+49426,+3 Agony Infusion,Double-click to apply to an unused infusion slot. Used by artificers to craft more powerful agony infusions.,"['NoMysticForge', 'NoSalvage', 'NoSell']",UpgradeComponent,Ascended,0,567.0,grupo_0,True,2,18
+49427,+4 Agony Infusion,Double-click to apply to an unused infusion slot. Used by artificers to craft more powerful agony infusions.,"['NoMysticForge', 'NoSalvage', 'NoSell']",UpgradeComponent,Ascended,0,1617.0,grupo_0,True,2,18
+49428,+5 Agony Infusion,Double-click to apply to an unused infusion slot. Used by artificers to craft more powerful agony infusions.,"['NoSalvage', 'NoSell']",UpgradeComponent,Ascended,0,3228.0,grupo_0,True,2,18
+49429,+6 Agony Infusion,Double-click to apply to an unused infusion slot. Used by artificers to craft more powerful agony infusions.,"['NoMysticForge', 'NoSalvage', 'NoSell']",UpgradeComponent,Ascended,0,5586.5,grupo_0,True,2,18
+49430,+7 Agony Infusion,Double-click to apply to an unused infusion slot. Used by artificers to craft more powerful agony infusions.,"['NoMysticForge', 'NoSalvage', 'NoSell']",UpgradeComponent,Ascended,0,12825.0,grupo_0,True,2,18
+49431,+8 Agony Infusion,Double-click to apply to an unused infusion slot. Used by artificers to craft more powerful agony infusions.,"['NoMysticForge', 'NoSalvage', 'NoSell']",UpgradeComponent,Ascended,0,26185.5,grupo_0,True,2,18
+49432,+9 Agony Infusion,Double-click to apply to an unused infusion slot. Used by artificers to craft more powerful agony infusions.,"['NoMysticForge', 'NoSalvage', 'NoSell']",UpgradeComponent,Ascended,0,49723.0,grupo_0,True,2,18
+49433,+10 Agony Infusion,Double-click to apply to an unused infusion slot. Used by artificers to craft more powerful agony infusions.,"['NoMysticForge', 'NoSalvage', 'NoSell']",UpgradeComponent,Ascended,0,103406.5,grupo_0,True,2,18
+49434,+11 Agony Infusion,Double-click to apply to an unused infusion slot. Used by artificers to craft more powerful agony infusions.,"['NoMysticForge', 'NoSalvage', 'NoSell']",UpgradeComponent,Ascended,0,200941.5,grupo_1,True,2,18
+49435,+12 Agony Infusion,Double-click to apply to an unused infusion slot. Used by artificers to craft more powerful agony infusions.,"['NoMysticForge', 'NoSalvage', 'NoSell']",UpgradeComponent,Ascended,0,418226.0,grupo_1,True,2,18
+49436,+13 Agony Infusion,Double-click to apply to an unused infusion slot. Used by artificers to craft more powerful agony infusions.,"['NoMysticForge', 'NoSalvage', 'NoSell']",UpgradeComponent,Ascended,0,827573.0,grupo_1,True,2,18
+49437,+14 Agony Infusion,Double-click to apply to an unused infusion slot. Used by artificers to craft more powerful agony infusions.,"['NoMysticForge', 'NoSalvage', 'NoSell']",UpgradeComponent,Ascended,0,1658887.0,grupo_1,True,2,18
+49438,+15 Agony Infusion,Double-click to apply to an unused infusion slot. Used by artificers to craft more powerful agony infusions.,"['NoMysticForge', 'NoSalvage', 'NoSell']",UpgradeComponent,Ascended,0,3399999.0,grupo_1,True,2,18
+49439,+16 Agony Infusion,Double-click to apply to an unused infusion slot. Used by artificers to craft more powerful agony infusions.,"['NoMysticForge', 'NoSalvage', 'NoSell']",UpgradeComponent,Ascended,0,6880000.0,grupo_1,True,2,18
+49440,+17 Agony Infusion,Double-click to apply to an unused infusion slot. Used by artificers to craft more powerful agony infusions.,"['NoMysticForge', 'NoSalvage', 'NoSell']",UpgradeComponent,Ascended,0,14003110.0,grupo_1,True,2,18
+49441,+18 Agony Infusion,Double-click to apply to an unused infusion slot. Used by artificers to craft more powerful agony infusions.,"['NoMysticForge', 'NoSalvage', 'NoSell']",UpgradeComponent,Ascended,0,30000000.0,grupo_2,True,2,18
+49442,+19 Agony Infusion,Double-click to apply to an unused infusion slot. Used by artificers to craft more powerful agony infusions.,"['NoMysticForge', 'NoSalvage', 'NoSell']",UpgradeComponent,Ascended,0,85550599.0,grupo_2,True,2,18
+49443,+20 Agony Infusion,Double-click to apply to an unused infusion slot. Used by artificers to craft more powerful agony infusions.,"['NoMysticForge', 'NoSalvage', 'NoSell']",UpgradeComponent,Ascended,0,,,True,2,18
+66930,Mordrem Sliver,Double-click to combine into a higher-tier trophy.,['NoSalvage'],Gizmo,Rare,0,40.0,grupo_0,True,2,9
+68942,Evergreen Lodestone,,['NoSalvage'],CraftingMaterial,Exotic,0,262.0,grupo_0,False,2,0
+68952,Evergreen Sliver,Double-click to combine into a higher-tier trophy.,['NoSalvage'],Gizmo,Rare,0,41.0,grupo_0,True,2,9
+70842,Mordrem Lodestone,,['NoSalvage'],CraftingMaterial,Exotic,0,126.5,grupo_0,False,2,0
+73034,Vial of Linseed Oil,Ingredient,['NoSalvage'],CraftingMaterial,Fine,80,3427.0,grupo_0,True,4,1
+73248,Stabilizing Matrix,Found in Chests of the Mists and salvaged from ascended rings. Used to stabilize dark energy for the safe construction of items. Can also be traded for Fractal Encryptions.,"['NoSalvage', 'NoSell']",CraftingMaterial,Ascended,0,3281.0,grupo_0,True,2,29
+89140,Lucent Mote,Can be refined into piles of lucent crystals.,['NoSalvage'],CraftingMaterial,Basic,0,35.5,grupo_0,True,2,8
+89271,Pile of Lucent Crystal,Refined from lucent motes. Used to craft runes and sigils.,['NoSalvage'],CraftingMaterial,Fine,0,344.0,grupo_0,True,4,10
+95814,Dragon's Insight,"In the Mystic Forge, combine with a Gift of Dragon's Insight, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary staff Aurene's Insight.","['HideSuffix', 'NoSalvage', 'NoSell', 'DeleteWarning', 'SoulBindOnUse']",Weapon,Exotic,80,1659983.0,grupo_1,True,2,27
+95834,Dragon's Flight,"In the Mystic Forge, combine with a Gift of Dragon's Flight, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary longbow Aurene's Flight.","['HideSuffix', 'NoSalvage', 'NoSell', 'DeleteWarning', 'SoulBindOnUse']",Weapon,Exotic,80,1655050.0,grupo_1,True,2,27
+95920,Dragon's Weight,"In the Mystic Forge, combine with a Gift of Dragon's Weight, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary hammer Aurene's Weight.","['HideSuffix', 'NoSalvage', 'NoSell', 'DeleteWarning', 'SoulBindOnUse']",Weapon,Exotic,80,1649998.0,grupo_1,True,2,27
+95967,Dragon's Claw,"In the Mystic Forge, combine with a Gift of Dragon's Claw, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary dagger Aurene's Claw.","['HideSuffix', 'NoSalvage', 'NoSell', 'DeleteWarning', 'SoulBindOnUse']",Weapon,Exotic,80,1659599.0,grupo_1,True,2,27
+95994,Dragon's Fang,"In the Mystic Forge, combine with a Gift of Dragon's Fang, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary sword Aurene's Fang.","['HideSuffix', 'NoSalvage', 'NoSell', 'DeleteWarning', 'SoulBindOnUse']",Weapon,Exotic,80,1659898.0,grupo_1,True,2,27
+96193,Dragon's Wisdom,"In the Mystic Forge, combine with a Gift of Dragon's Wisdom, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary scepter Aurene's Wisdom.","['HideSuffix', 'NoSalvage', 'NoSell', 'DeleteWarning', 'SoulBindOnUse']",Weapon,Exotic,80,1673910.0,grupo_1,True,2,27
+96303,Dragon's Gaze,"In the Mystic Forge, combine with a Gift of Dragon's Gaze, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary focus Aurene's Gaze.","['HideSuffix', 'NoSalvage', 'NoSell', 'DeleteWarning', 'SoulBindOnUse']",Weapon,Exotic,80,1650012.0,grupo_1,True,2,27
+96330,Dragon's Wing,"In the Mystic Forge, combine with a Gift of Dragon's Wing, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary short bow Aurene's Wing.","['HideSuffix', 'NoSalvage', 'NoSell', 'DeleteWarning', 'SoulBindOnUse']",Weapon,Exotic,80,1675770.5,grupo_1,True,2,28
+96357,Dragon's Bite,"In the Mystic Forge, combine with a Gift of Dragon's Bite, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary greatsword Aurene's Bite.","['HideSuffix', 'NoSalvage', 'NoSell', 'DeleteWarning', 'SoulBindOnUse']",Weapon,Exotic,80,1606092.0,grupo_1,True,2,27
+96827,Dragon's Tail,"In the Mystic Forge, combine with a Gift of Dragon's Tail, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary mace Aurene's Tail.","['HideSuffix', 'NoSalvage', 'NoSell', 'DeleteWarning', 'SoulBindOnUse']",Weapon,Exotic,80,1684007.5,grupo_1,True,2,27
+96915,Dragon's Argument,"In the Mystic Forge, combine with a Gift of Dragon's Argument, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary pistol Aurene's Argument.","['HideSuffix', 'NoSalvage', 'NoSell', 'DeleteWarning', 'SoulBindOnUse']",Weapon,Exotic,80,1680898.0,grupo_1,True,2,27
+96925,Dragon's Breath,"In the Mystic Forge, combine with a Gift of Dragon's Breath, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary torch Aurene's Breath.","['HideSuffix', 'NoSalvage', 'NoSell', 'DeleteWarning', 'SoulBindOnUse']",Weapon,Exotic,80,1649996.0,grupo_1,True,2,27
+97267,Dragon's Persuasion,"In the Mystic Forge, combine with a Gift of Dragon's Persuasion, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary rifle Aurene's Persuasion.","['HideSuffix', 'NoSalvage', 'NoSell', 'DeleteWarning', 'SoulBindOnUse']",Weapon,Exotic,80,1694982.0,grupo_1,True,2,27
+97449,Dragon's Rending,"In the Mystic Forge, combine with a Gift of Dragon's Rending, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary axe Aurene's Rending.","['HideSuffix', 'NoSalvage', 'NoSell', 'DeleteWarning', 'SoulBindOnUse']",Weapon,Exotic,80,1618998.0,grupo_1,True,2,27
+97513,Dragon's Voice,"In the Mystic Forge, combine with a Gift of Dragon's Horn, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary warhorn Aurene's Voice.","['HideSuffix', 'NoSalvage', 'NoSell', 'DeleteWarning', 'SoulBindOnUse']",Weapon,Exotic,80,1659076.0,grupo_1,True,2,27
+97691,Dragon's Scale,"In the Mystic Forge, combine with a Gift of Dragon's Scale, a Gift of Jade Mastery, and a Draconic Tribute to create the legendary shield Aurene's Scale.","['HideSuffix', 'NoSalvage', 'NoSell', 'DeleteWarning', 'SoulBindOnUse']",Weapon,Exotic,80,1645142.0,grupo_1,True,2,27
+103973,Nyr Hrammr,"<c=@flavor>This weapon is used to craft the legendary spear Klobjarne Geirr.
+
+Combine this weapon in the Mystic Forge with:
+��� 1 Gift of Janthir Wilds
+��� 1 Gift of the Homesteader
+��� 1 Gift of K","['NoSalvage', 'NoSell', 'DeleteWarning', 'SoulBindOnUse']",Weapon,Exotic,80,3864339.0,grupo_1,True,2,30
